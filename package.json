@@ -30,7 +30,9 @@
     "express-jwt": "^5.3.0",
     "helmet": "^3.8.1",
     "jsonwebtoken": "^7.4.2",
-    "mongoose": "^4.11.6"
+    "mongoose": "^4.11.6",
+    "mongoose-hidden": "^1.4.0",
+    "validator": "^8.0.0"
   },
   "devDependencies": {
     "gulp": "^3.9.1",
