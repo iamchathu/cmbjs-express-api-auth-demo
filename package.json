@@ -1,0 +1,40 @@
+{
+  "name": "cmbjs-express-api-auth-demo",
+  "version": "1.0.0",
+  "description": "Demo Application for CMBJS talk to showcase Securing NodeJS APIs with JWT",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iamchathu/cmbjs-express-api-auth-demo.git"
+  },
+  "keywords": [
+    "auth",
+    "jwt",
+    "express",
+    "nodejs",
+    "RestAPI"
+  ],
+  "author": "Chathu Vishwajith (iam@chathu.me)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/iamchathu/cmbjs-express-api-auth-demo/issues"
+  },
+  "homepage": "https://github.com/iamchathu/cmbjs-express-api-auth-demo#readme",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "cors": "^2.8.4",
+    "express": "^4.15.4",
+    "express-jwt": "^5.3.0",
+    "helmet": "^3.8.1",
+    "jsonwebtoken": "^7.4.2",
+    "mongoose": "^4.11.6"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-livereload": "^3.8.1",
+    "gulp-nodemon": "^2.2.1"
+  }
+}
