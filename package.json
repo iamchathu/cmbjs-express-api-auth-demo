@@ -25,6 +25,7 @@
   "homepage": "https://github.com/iamchathu/cmbjs-express-api-auth-demo#readme",
   "dependencies": {
     "body-parser": "^1.17.2",
+    "content-filter": "^1.1.1",
     "cors": "^2.8.4",
     "express": "^4.15.4",
     "express-jwt": "^5.3.0",
